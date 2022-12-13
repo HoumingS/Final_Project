@@ -1,0 +1,125 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+
+*{
+  background-color: black;
+
+}
+#tab{
+  position:absolute;
+  width:500px;
+  height:500px;
+  top:50%;
+  left:50%;
+  margin-left: -250px;
+  margin-top:-250px;
+
+}
+
+#textArea{
+  position:absolute;
+  top:62%;
+  left:51.5%;
+  width:500px;
+  height:500px;
+  margin-left: -250px;
+  margin-top:-250px;
+  background-color: transparent;
+  text-align: center;
+}
+h1{
+  background-color: transparent;
+  color:black;
+  font-family: 'Press Start 2P', cursive;
+}
+#tab img{
+  width:555px;
+}
+.buttons{
+  position:absolute;
+  top:80%;
+  left:51.5%;
+  width:500px;
+  height:500px;
+  margin-left: -250px;
+  margin-top:-250px;
+  background-color:transparent;
+  text-align: center;
+
+}
+.buttons button{
+  background-color:transparent;
+  margin:40px;
+  font-family: 'Press Start 2P', cursive;
+}
+.yes a{
+  color:black;
+  text-decoration: none;
+  background-color: transparent;
+  font-family: 'Press Start 2P', cursive;
+}
+.close{
+  position:absolute;
+  top:-20%;
+  left:98.5%;
+  background-color:transparent;
+  color:transparent;
+  border-color: white;
+  height:25.2px;
+  width:25px;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.text{
+  color:white;
+  text-align: center;
+  padding-left: 20vw;
+  padding-right: 20vw;
+  margin-top: 4vw;
+
+}
+.img1 img{
+  display: block;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+.text-g{
+  color:white;
+  text-align: center;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  margin-top: 7vw;
+  font-size: 20px;
+
+}
+
+.img2 img{
+  display: block;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+}
+
+.text-f{
+  color:white;
+  text-align: center;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  margin-top: 7vw;
+  font-size: 20px;
+
+}
+
+.img3 img{
+  display: block;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+}
